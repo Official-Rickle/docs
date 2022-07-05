@@ -12,25 +12,29 @@ Token Contracts :
   
   _Ethereum_
   
-    0x0
->   [etherscan.io](https://etherscan.io/token/0x0)  https://etherscan.io/token/0x0
+    0x0ff80a1708191c0da8aa600fa487f7ac81d7818c
+>   [etherscan.io](https://etherscan.io/token/0x0ff80a1708191c0da8aa600fa487f7ac81d7818c)  https://etherscan.io/token/0x0ff80a1708191c0da8aa600fa487f7ac81d7818c
 
   _Binance Smart Chain_
     
-    0x0
-    
+    0xeca15e1bbff172d545dd6325f3bae7b737906737
+>   [bscscan.com](https://bscscan.com/token/0xeca15e1bbff172d545dd6325f3bae7b737906737)  https://bscscan.com/token/0xeca15e1bbff172d545dd6325f3bae7b737906737
+
   _Gnosis_
     
-    0x0
+    0x2dF5912439d2D14d04a7742346508505288eF367
     
+
   _Polygon_
     
-    0x0
+    0x9fDC23fe295104Ac55fef09363c56451D0E37CFA
     
+
   _Harmony One_
   
-    0x0
+    0x32EB48b083acCe94d994CE885d9AB295c081f884
     
+
 # Email Address（business）: #
 
   admin@rickletoken.com
@@ -45,14 +49,22 @@ Token Contracts :
 
 # Social Media and other Links #
 
+  _Nomics :_
+  
+>   [Rickle On Nomics](https://nomics.com/assets/rkl-rickle-from-mainnet)  https://nomics.com/assets/rkl-rickle-from-mainnet
+  
   _CoinMarketCap :_
   
     N/A
 
   _Telegram :_
   
+>   [Rickle On Telegram](https://t.me/therickle)  https://t.me/therickle
+  
   _Twitter :_
   
+>   [Rickle On Twitter](https://twitter.com/rickle_token)  https://twitter.com/rickle_token
+
   _LinkedIn :_
   
   _Reddit :_
@@ -65,41 +77,44 @@ Token Contracts :
   
   _Facebook :_
   
-  _Discord :_ 
+  _Discord :_
   
->    [Rickle On Discord](https://discord.gg/rickletoken) https://discord.gg/rickletoken
+>   [Rickle On Discord](https://discord.gg/rickletoken)  https://discord.gg/rickletoken
     
-  Steemit Link
+  _Steemit :_
   
-  Slack Link
-  
-  Github Link
-  
-  Whitepaper
-  
-  Other Links
+  _Github :_
+>   [Rickle On Github](https://github.com/Official-Rickle)  https://github.com/Official-Rickle
 
+  _Whitepaper :_
+  
+  _Other Links:_
+>   [Rickle Report](https://ricklereport.com)  https://ricklereport.com
 
 The scale and cost of private equity financing(price&amount of Seed/Private Sale)
+
 100k USD was raised for Development
 
 The scale and cost of public financing(price&amount of Pre-/ Public Sale)
 
 General Descriptions*Information about the date of ICO, total amount in circulation, whether it has been listed on other exchanges, etc..
-Total Supply : 100 Billion
-Total Burned : 50 Billion
-Total On-Crosschains : 500 Million
+
+
+| Total Supply         | 100 Billion         |
+| -------------------- | ------------------- |
+| Total Burned         | Approx. 50 Billion  |
+| Total On-Crosschains | 500 Million         |
 
 ## Exchanges ##
 
-  _Ethereum_
+_Ethereum_
   
 1.    UniSwap [UniSwap]()
 1.    PancakeSwap [PancakeSwap]()
 1.    SushiSwap [SushiSwap]()
 1.    ParaSwap [ParaSwap]()
   
-  _Binance Smart Chain_
+_Binance Smart Chain_
     
 a.    PancakeSwap
 a.    SushiSwap
@@ -107,67 +122,78 @@ a.    YieldFields
 a.    CryptoSwapDex
 a.    ApeSwap
     
-  _Gnosis (formaly XDai)_
+_Gnosis (formaly XDai)_
   
 a.    HoneySwap
   
-  _Polygon (Matic)_
+_Polygon (Matic)_
   
 a.    SushiSwap
     
-  _Harmony One_
+_Harmony One_
   
 a.    FoxSwap
     
- ** Liquidity Pools **
+** Liquidity Pools **
  
-    _Ethereum_
+ _Ethereum_
     
 >   WETH => RKL
     
-    _Binance Smart Chain_
+_Binance Smart Chain_
     
 >   WBNB => RKL
+
 >   BUSD => RKL
+
 >   USDC => RKL
+
 >   USDT => RKL
+
 >   CAKE => RKL
+
 >   B1MT => RKL
+
 >   FIELD => RKL
+
 >   WMUE => RKL
+
 >   BTCB => RKL
+
 >   BHT => RKL
+
 >   1USE => RKL
+
 >   CDS => RKL
+
 >   CST => RKL
+
 >   #HC => RKL
 
-    _Gnosis_
+
+_Gnosis_
     
 >   XDAI => RKL
     
-    _Polygon_
+_Polygon_
     
 >   MATIC => RKL
+
 >   MIMATIC => RKL
        
-    _Harmony One_
+_Harmony One_
     
 >   ONE => RKL
     
 # General Descriptions #
-*Information about the date of STO, total amount in circulation ,cooperated exchanges & etc..(STO only)
 
 # General Descriptions of Local Law, Regulations & Restrictions(STO only) #
 
-"Logo of your token*
+## Logo of your token ##
+
 500px*500px, PNG or JPG with transparent background
+
 Image formats like .jpg, .png, .gif, .bmp, .psd, .tiff are supported."
-Smart contract address of the token *
-blockchain/platform*
-Coin Accuracy(own mainnet project only)
-source code address(own mainnet project only)
-wallet program(own mainnet project only)
-API Doucuments(own mainnet project only)
+
 Other Contact Information
-![image](https://user-images.githubusercontent.com/29209354/177183769-af05976d-5186-4509-8f7b-6fab9060c29c.png)
+
