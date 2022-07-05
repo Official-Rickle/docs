@@ -110,22 +110,24 @@ General Descriptions*Information about the date of ICO, total amount in circulat
 
 _Ethereum_
   
-1.    UniSwap [UniSwap]()
-1.    PancakeSwap [PancakeSwap]()
-1.    SushiSwap [SushiSwap]()
-1.    ParaSwap [ParaSwap]()
+1.    UniSwap [UniSwap](https://app.uniswap.org/#/swap?outputCurrency=0x0ff80a1708191c0da8aa600fa487f7ac81d7818c&chain=mainnet)
+1.    ParaSwap [ParaSwap](https://paraswap.io/#/?network=ethereum&outputCurrency=0x0ff80a1708191c0da8aa600fa487f7ac81d7818c)
+1.    1Inch [1Inch](https://app.1inch.io/#/1/swap/ETH/rkl)
+1.    Matcha [Matcha](https://matcha.xyz/markets/1/0x0ff80a1708191c0da8aa600fa487f7ac81d7818c)
+1.    Dodo [Dodo](https://app.dodoex.io/exchange/ETH-rkl?network=mainnet)
   
 _Binance Smart Chain_
     
-a.    PancakeSwap
-a.    SushiSwap
-a.    YieldFields
-a.    CryptoSwapDex
-a.    ApeSwap
+1.    PancakeSwap [PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0xeCa15e1BbFF172D545Dd6325F3Bae7b737906737)
+1.    SushiSwap [SushiSwap](https://app.sushi.com/swap?chainId=56&outputCurrency=0xeCa15e1BbFF172D545Dd6325F3Bae7b737906737)
+1.    YieldFields [YieldFields](https://yieldfields.finance/swap?outputCurrency=0xeCa15e1BbFF172D545Dd6325F3Bae7b737906737)
+1.    CryptoSwapDex [CryptoSwapDex](https://cryptoswapdex.com/swap?outputCurrency=0xeCa15e1BbFF172D545Dd6325F3Bae7b737906737)
+1.    ApeSwap [ApeSwap](https://apeswap.finance/swap?outputCurrency=0xeCa15e1BbFF172D545Dd6325F3Bae7b737906737)
     
 _Gnosis (formaly XDai)_
   
-a.    HoneySwap
+1.    HoneySwap
+
   
 _Polygon (Matic)_
   
