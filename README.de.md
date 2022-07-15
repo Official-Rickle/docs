@@ -4,7 +4,7 @@
   
 ![image](https://rickletoken.com/favicon.ico)
 
-# Tokenname (Abbr.) : #
+# Tokenname (Abkürzung): #
 
   RKL (eRKL), (bRKL), (xRKL), (pRKL), (1RKL)
 
