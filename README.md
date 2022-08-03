@@ -190,13 +190,20 @@ _Harmony One_
     
 # General Descriptions #
 
+
 # General Descriptions of Local Law, Regulations & Restrictions(STO only) #
 
-## Logo of your token ##
+## Rickle Token Logo ##
+![Rickle-128x128](https://user-images.githubusercontent.com/29209354/182699804-f50e473e-8159-4cdd-9022-97c68cf5637b.png)
+128px*128px, PNG with transparent background
+![Rickle_Logo_512](https://user-images.githubusercontent.com/29209354/182699989-7bd64979-33e6-410a-becd-bcebb910336b.png)
+512px*512px, PNG with transparent background
 
-500px*500px, PNG or JPG with transparent background
 
 Image formats like .jpg, .png, .gif, .bmp, .psd, .tiff are supported."
 
 Other Contact Information
 
+admin@rickletoken.com
+
+https://rickletoken.com
