@@ -45,8 +45,8 @@ Token Contracts :
   
 # Project Website: # 
 
-  https://rickletoken.com
-  https://linktr.ee/winston.services
+*  https://rickletoken.com
+*  https://linktr.ee/winston.services
   
 # Social Media and other Links #
 
@@ -69,6 +69,8 @@ Token Contracts :
   _LinkedIn :_
   
   _Reddit :_
+  
+>   [Rickle On Reddit](https://www.reddit.com/r/rickletoken) https://www.reddit.com/r/rickletoken
   
   _Bitcointalk :_
   
