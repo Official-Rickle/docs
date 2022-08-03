@@ -126,7 +126,7 @@ _Binance Smart Chain_
     
 _Gnosis (formaly XDai)_
   
-1.    HoneySwap
+1.    HoneySwap [HoneySwap](https://app.honeyswap.org/#/swap?outputCurrency=0x2dF5912439d2D14d04a7742346508505288eF367)
 
   
 _Polygon (Matic)_
